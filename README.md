@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Spoorthi G Talanki
 
 # 💫 About Me:
-🌱 I’m currently learning full stack web development
+🌱 I’m currently learning Natural Language Processing
 
 
 # 💻 Tech Stack:
